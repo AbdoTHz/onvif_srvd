@@ -18,7 +18,7 @@ ServiceContext::ServiceContext():
 
 
     //Device Information
-    manufacturer     ( "Manufacturer"   ),
+    manufacturer     ( "Cambridge TeraHertz"   ),
     model            ( "Model"          ),
     firmware_version ( "FirmwareVersion"),
     serial_number    ( "SerialNumber"   ),
