@@ -12,7 +12,7 @@ PIDFile=/tmp/onvif_srvd.pid
 ExecStart=/home/xxx/bin/onvif_srvd \
 	--pid_file /tmp/onvif_srvd.pid \
 	--ifs eth0 \
-	--scope onvif://www.onvif.org/name/TestDev \
+	--scope onvif://www.onvif.org/name/DK-303 \
 	--scope onvif://www.onvif.org/location/Unknow \
 	--scope onvif://www.onvif.org/Profile/Streaming \
 	--scope onvif://www.onvif.org/Profile/S \
